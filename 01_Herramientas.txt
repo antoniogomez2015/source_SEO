@@ -1,0 +1,68 @@
+
+
+
+
+	SEO 2.0, Curso Udemy
+
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+
+SEO Herramientas:
+_________________
+
+	
+	_instalar google analytics
+
+	_darse de alta en google maps
+
+	_crear un sitemap para google
+
+
+
+CMS Wordpress:
+______________
+
+	_plugin skismet (antispan)
+
+
+	_plugins (mapa de url del sitio web, el cuál, debemos dar de alta en google, para mejorar la indexación de la páginas de nuestro 
+
+	sitio web, en los buscadores)
+
+
+Optimización de wordpress:
+__________________________
+
+	_All in One SEO Pack (complementan optimización de wordpress)
+
+	_SEO by Yoast (complementan optimización de wordpress)
+
+	_3W Total Cache (tiempo de carga más rápido)
+
+	_Social Sharing Plugins (difusion en redes sociales)
+
+
+
+Herramientas de palabras claves:
+________________________________
+
+
+	_Longtailpro (ésta nos permitirá escoger las palabras claves más optimas de cara al posicionamiento web)
+
+	_Planificador de palabras claves de google Adwords (grauito)
+
+
+Herramientas para redes sociales
+________________________________
+
+
+	_Hootsuite (administrar contenidos entre redes sociales)
+
+	_Tribapp (publicar contenido entre otros columnistras con contenido similar al nuestro)
+
+
+
+
+
+
